@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0f2f0f,100:000000&height=240&section=header&text=xMSHaomi&fontSize=58&fontColor=00ff41&fontAlignY=40&desc=%5B%20root%40xMSHaomi%20~%5D%23%20.%2Finit%20--master&descSize=14&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:00b32d,100:004d14&height=220&section=header&text=xMSHaomi&fontSize=56&fontColor=000000&fontAlignY=42&desc=%5B%20root%40xMSHaomi%20~%5D%23%20.%2Finit%20--master&descSize=14&descColor=004d14&descAlignY=62&animation=blink" width="100%"/>
 
 <div align="center">
 
-<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=640&height=40&lines=%5BBOOT%5D+kernel+xMSHaomi+v9.0+loading...;%5BOK%5D+mounting+%2Farsenal+%2Fpay+%2Fbots+%2Fai;%5BOK%5D+firewall%3A+ACTIVE+%2F%2F+encryption%3A+AES-256;%5BGRANTED%5D+root+access+—+welcome%2C+visitor.;%24+transmit+%2F%2F+wa.me%2F%2B6282231669053" alt="boot"/></a>
+<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%5BBOOT%5D+kernel+xMSHaomi+v9.0+...;%5BOK%5D+mounting+%2Farsenal;%5BGRANTED%5D+root+access;%24+transmit+%E2%96%B8+wa.me%2F%2B6282231669053" alt="boot"/></a>
 
 <br>
 
@@ -54,6 +54,60 @@ root@xMSHaomi:~# nmap -sV skills.local
 
 root@xMSHaomi:~# ./audit.sh
 ```
+
+<div align="center">
+
+## ⚡ PAID SERVICE — JASA EDIT & BUILD PREMIUM
+
+<img src="https://img.shields.io/badge/───────%20OPEN%20ORDER%20───────-00ff41?style=for-the-badge&labelColor=000000"/>
+
+</div>
+
+```bash
+root@xMSHaomi:~# cat /services/open-order.txt
+
+  ╔══════════════════════════════════════════════════╗
+  ║  💸 PAID EDIT — KEBUTUHAN SOSMED & APK PREMIUM   ║
+  ╠══════════════════════════════════════════════════╣
+  ║                                                  ║
+  ║  📱 APK PREMIUM                                  ║
+  ║     · bungkus web → APK (WebView native)         ║
+  ║     · custom nama · ikon · splash screen         ║
+  ║     · desain UI dark premium sesuai request      ║
+  ║     · fix bug APK lama, upgrade tampilan         ║
+  ║                                                  ║
+  ║  🌐 WEB & TOOLS                                  ║
+  ║     · web personal / toko / tools custom         ║
+  ║     · deploy live (Vercel / Netlify)             ║
+  ║     · domain + HTTPS siap pakai                  ║
+  ║                                                  ║
+  ║  💬 SOSMED SETUP                                 ║
+  ║     · bot WhatsApp / Telegram auto-reply         ║
+  ║     · pay gateway QRIS otomatis 0% fee           ║
+  ║     · sistem order & konfirmasi otomatis         ║
+  ║                                                  ║
+  ║  ✅ BENEFIT                                      ║
+  ║     · kerjaan rapi, gk asal jadi                 ║
+  ║     · revisi sampe puas — gk makeas              ║
+  ║     · harga bersahabat, kualitas premium         ║
+  ║     · hasil BUKAN copas — jaminan orisinal       ║
+  ║     · support abis jadi, gk dilepas doang        ║
+  ║                                                  ║
+  ║  ⚠ SLOT TERBATAS — first come first serve        ║
+  ╚══════════════════════════════════════════════════╝
+
+root@xMSHaomi:~# order --now
+  → wa.me/+6282231669053  ← klik, langsung gas
+```
+
+<p align="center">
+
+*"butuh joki digital? sing ndelok ndek kene tok — liane gk usah,`;
+*wong kiye ws pinter, tur mboten ngapusi.";
+*ra ngunu kok mbayar melarat karo asal-asalan,";
+*detok mrene wae — cepet, rapi, regone oke."*
+
+</p>
 
 <div align="center">
 
