@@ -41,6 +41,19 @@ Web tool for generating Alight Motion XML presets — live at haomi-id.netlify.a
 </td></tr>
 </table>
 
+
+<p align="center"><a href="#about">English</a> · <a href="#소개">한국어</a> · <a href="#tentang">Indonesia</a></p>
+
+## 소개
+
+인도네시아 개발자. 웹 도구, 봇, 결제 시스템, 안드로이드 유틸리티를 만듭니다. 실제로 끝까지 작동하는 제품을 만드는 것에 집중합니다.
+
+<p align="center"><em>"완벽한 결과물, 빠른 실행."</em></p>
+
+## Tentang
+
+Developer dari Indonesia. Membangun web tools, bot, integrasi pembayaran, dan utilitas Android — fokus pada produk yang benar-benar berfungsi end-to-end.
+
 ## Stats
 
 <div align="center">
