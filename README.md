@@ -12,7 +12,6 @@
 
 <div align="center">
 
-<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%5BBOOT%5D+kernel+xMSHaomi+v9.0+...;%5BOK%5D+systems+check;%5BGRANTED%5D+root+access;%24+transmit+%E2%96%B8+wa.me%2F%2B6282231669053" alt="boot"/></a>
 
 <br>
 
