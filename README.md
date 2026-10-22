@@ -59,7 +59,7 @@ root@xMSHaomi:~# ./audit.sh
 
 ## ⚡ PAID SERVICE — JASA EDIT & BUILD PREMIUM
 
-<img src="https://img.shields.io/badge/───────%20OPEN%20ORDER%20───────-00ff41?style=for-the-badge&labelColor=000000"/>
+**`[ ═══════ OPEN ORDER — SLOT TERBATAS ═══════ ]`**
 
 </div>
 
