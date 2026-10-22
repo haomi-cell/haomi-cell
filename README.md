@@ -1,16 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=130&section=header" width="100%"/>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/╔═%20SYSTEM%20ONLINE%20═╗-00ff41?style=flat-square&labelColor=000000"/>
+
 # 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞
 
-[ root@xMSHaomi ~ ]# ./init --master
+**`[ root@xMSHaomi ~ ]# ./init --master`**
+
+<img src="https://komarev.com/ghpvc/?username=haomi-cell&color=00ff41&style=flat-square&label=VISITORS"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%5BBOOT%5D+kernel+xMSHaomi+v9.0+...;%5BOK%5D+mounting+%2Farsenal;%5BGRANTED%5D+root+access;%24+transmit+%E2%96%B8+wa.me%2F%2B6282231669053" alt="boot"/></a>
+<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=700&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=%5BBOOT%5D+kernel+xMSHaomi+v9.0+...;%5BOK%5D+systems+check;%5BGRANTED%5D+root+access;%24+transmit+%E2%96%B8+wa.me%2F%2B6282231669053" alt="boot"/></a>
 
 <br>
 
@@ -41,7 +45,7 @@ root@xMSHaomi:~# ./identity.sh --verbose --full
   │  CONTACT     wa.me/+6282231669053            │
   └──────────────────────────────────────────────┘
 
-root@xMSHaomi:~# ls -la /arsenal/ --sort=power
+root@xMSHaomi:~# ls -la /projects/ --sort=power
 
   drwxr-xr-x  💰  haomi-api-tools      →  payment gateway · QRIS · 0% fee · webhook auto-PAID
   drwxr-xr-x  🤖  haomi-bot-tele       →  telegram AI bot · invoice engine · 24/7
