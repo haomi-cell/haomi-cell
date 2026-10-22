@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<a href="https://Wa.me/+6282231669053"><img src="https://komarev.com/ghpvc/?username=haomi-cell&color=FF4500&style=for-the-badge&label=VISITORS" alt="visitors"/></a>
-
 <a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=560&lines=%F0%9F%90%B2+Welcome+to+my+lair;Root+access+%3A+GRANTED;Building+premium+tools+%2B+bots+%2B+APK;Linux+%F0%9F%90%A7+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Android" alt="typing"/></a>
 
 </div>
