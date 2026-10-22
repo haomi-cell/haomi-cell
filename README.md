@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:003b0f,100:000000&height=240&section=header&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=%5B%20root%40xMSHaomi%20~%5D%23%20.%2Finit%20--master&descSize=15&descColor=00ff41&descAlignY=58&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=200&section=header&text=xMSHaomi&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=%5B%20root%40xMSHaomi%20~%5D%23%20.%2Finit%20--master&descSize=15&descColor=ffffff&descAlignY=70&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -137,4 +137,4 @@ root@xMSHaomi:~# █
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b0f,100:050505&height=130&section=footer&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=24&fontColor=ffffff&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=120&section=footer&text=xMSHaomi&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
