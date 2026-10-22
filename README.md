@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/╔═%20SYSTEM%20ONLINE%20═╗-00ff41?style=flat-square&labelColor=000000"/>
-
 # 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞
 
-**`[ root@xMSHaomi ~ ]# ./init --master`**
+### `root@xMSHaomi ~ #` *system online*
 
 <img src="https://komarev.com/ghpvc/?username=haomi-cell&color=00ff41&style=flat-square&label=VISITORS"/>
 
