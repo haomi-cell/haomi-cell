@@ -109,7 +109,7 @@ root@xMSHaomi:~# order --now
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41"/>
-<img height="170" src="https://streak-stats.demolab.com?user=haomi-cell&hide_border=true&background=050505&ring=00ff41&fire=ff1744&currStreakLabel=ffffff&sideLabels=ffffff&dates=00ff41&currTotal=ffffff&total=ffffff&sideNums=ffffff"/>
+<img height="170" src="https://streak-stats.demolab.com?user=haomi-cell&hide_border=true&background=050505&stroke=00ff41&ring=00ff41&fire=ff1744&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&total=ffffff"/>
 
 <br>
 
