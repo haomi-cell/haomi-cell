@@ -1,5 +1,5 @@
 <!-- ══════════ 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞 — PROFILE ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD700,50:FF4500,100:8B0000&height=280&section=header&text=xMSHaomi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ROOT%20%40%20HAOMI-CELL%20%E2%80%94%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Arsenal&descSize=15&descAlignY=55&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD700,50:FF4500,100:8B0000&height=280&section=header&text=xMSHaomi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=developer%20%E2%80%A2%20builder%20%E2%80%A2%20arsenal%20%E2%80%94%20think%20less%2C%20build%20more&descSize=15&descAlignY=55&animation=blink" width="100%"/>
 
 <div align="center">
 
@@ -46,6 +46,11 @@
 🎬 haomi-alightmotion   → AM XML preset tools
 🧠 HAO-AI               → AI integration
 ```
+
+<!-- ══════════ TROPHY ══════════ -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=haomi-cell&theme=radical&no-frame=true&no-bg=true&column=7" width="100%"/>
+</div>
 
 <!-- ══════════ SNAKE ══════════ -->
 <div align="center">
