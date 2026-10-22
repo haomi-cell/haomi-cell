@@ -1,74 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f2e,100:0d1117&height=180&section=header&text=xMSHaomi&fontSize=54&fontColor=e6edf3&fontAlignY=38&desc=full-stack%20developer%20%E2%80%94%20web%20%E2%80%A2%20bots%20%E2%80%A2%20tools&descSize=15&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:C08A2D,50:FFD700,100:C08A2D&height=240&section=header&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=58&fontColor=1a1a2e&fontAlignY=42&desc=%E2%97%86%20PREMIUM%20DEVELOPER%20%E2%97%86%20DIGITAL%20CRAFTSMAN%20%E2%97%86&descSize=14&descAlignY=62&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-<a href="https://Wa.me/+628****9053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=clean+code%2C+working+products;web+%2F+backend+%2F+automation;linux+daily+driver" alt="typing"/></a>
+<br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&pause=1500&color=FFD700&center=true&vCenter=true&width=620&height=45&lines=%E2%9C%A6+Crafting+Digital+Excellence+%E2%9C%A6;%E2%9C%A6+Precision+in+Every+Line+%E2%9C%A6;%E2%9C%A6+Luxury+Meets+Engineering+%E2%9C%A6" alt="typing"/>
 
-## Projects
+<br>
 
-<table>
-<tr><td width="50%">
+<img src="https://img.shields.io/badge/────────%20CROWN%20JEWELS%20────────-181718?style=for-the-badge&labelColor=0d0d12"/>
+<br><br>
 
-### 🔗 [haomi-api-tools](https://github.com/haomi-cell/haomi-api-tools)
-Payment gateway engine — QRIS invoicing, real-time status, webhooks, zero-fee direct settlement.
+<a href="https://github.com/haomi-cell/haomi-api-tools">∙ <img src="https://img.shields.io/badge/HAOMI--API--TOOLS-Payment%20Engine%20∙%20QRIS%20∙%200%25%20Fee-C08A2D?style=for-the-badge&labelColor=14141a&logo=visa&logoColor=FFD700"/></a>
+<br><br>
+<a href="https://github.com/haomi-cell/haomi-bot-tele">∙ <img src="https://img.shields.io/badge/HAOMI--BOT--TELE-AI%20Assistant%20∙%20Telegram%20∙%2024%2F7-2B4A6F?style=for-the-badge&labelColor=14141a&logo=telegram&logoColor=58A6FF"/></a>
+<br><br>
+<a href="https://github.com/haomi-cell/HAO-AI">∙ <img src="https://img.shields.io/badge/HAO--AI-Intelligence%20Console%20∙%20Serverless-3D2B56?style=for-the-badge&labelColor=14141a&logo=openai&logoColor=C08A2D"/></a>
+<br><br>
+<a href="https://github.com/haomi-cell/haomi-alightmotion">∙ <img src="https://img.shields.io/badge/HAOMI--ALIGHTMOTION-Motion%20Preset%20Studio%20∙%20XML-4A2C5E?style=for-the-badge&labelColor=14141a&logo=adobeaftereffects&logoColor=B983FF"/></a>
 
-`Node.js` `Serverless` `Payments`
+<br><br>
 
-</td><td width="50%">
-
-### 🤖 [haomi-bot-tele](https://github.com/haomi-cell/haomi-bot-tele)
-Telegram bot with AI auto-reply, payment invoices, and lightweight JSON storage.
-
-`Node.js` `Telegram API`
-
-</td></tr>
-<tr><td width="50%">
-
-### 🧠 [HAO-AI](https://github.com/haomi-cell/HAO-AI)
-AI chat web console — dark UI, serverless backend on Vercel.
-
-`JavaScript` `Vercel` `AI`
-
-</td><td width="50%">
-
-### 🎬 [haomi-alightmotion](https://github.com/haomi-cell/haomi-alightmotion)
-Web tool for generating Alight Motion XML presets — live at haomi-id.netlify.app.
-
-`HTML` `Netlify`
-
-</td></tr>
-</table>
-
-
-<p align="center"><a href="#about">English</a> · <a href="#소개">한국어</a> · <a href="#tentang">Indonesia</a></p>
-
-## 소개
-
-인도네시아 개발자. 웹 도구, 봇, 결제 시스템, 안드로이드 유틸리티를 만듭니다. 실제로 끝까지 작동하는 제품을 만드는 것에 집중합니다.
-
-<p align="center"><em>"완벽한 결과물, 빠른 실행."</em></p>
-
-## Tentang
-
-Developer dari Indonesia. Membangun web tools, bot, integrasi pembayaran, dan utilitas Android — fokus pada produk yang benar-benar berfungsi end-to-end.
-
-## Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=FFD700&text_color=e6edf3"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomi-cell&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=e6edf3"/>
-</div>
-
-## Stack
-
-<div align="center">
+<img src="https://img.shields.io/badge/───────%20THE%20WORKSHOP%20───────-181718?style=for-the-badge&labelColor=0d0d12"/>
+<br><br>
 <img src="https://skillicons.dev/icons?i=linux,nodejs,python,flask,js,ts,android,git,github,vercel,nginx,sqlite,firebase,docker,redis&theme=dark"/>
-</div>
 
-<div align="center">
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=0d0d12&title_color=FFD700&icon_color=C08A2D&text_color=b9b9c3"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomi-cell&layout=compact&hide_border=true&bg_color=0d0d12&title_color=FFD700&text_color=b9b9c3"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=haomi-cell&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=12"/>
+
+<br>
+
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br><br>
+
+<a href="https://Wa.me/+6282231669053"><img src="https://img.shields.io/badge/───────%20DIRECT%20LINE%20───────-181718?style=for-the-badge&labelColor=0d0d12"/></a>
+<br><br>
+<a href="https://Wa.me/+6282231669053"><img src="https://img.shields.io/badge/%F0%9F%93%B1_WHATSAPP-%2B62_822_3166_9053-25D366?style=for-the-badge&labelColor=14141a&logo=whatsapp&logoColor=white"/></a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2e,100:0d1117&height=90&section=footer&text=xMSHaomi&fontSize=18&fontColor=58A6FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:C08A2D,50:FFD700,100:C08A2D&height=130&section=footer&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=24&fontColor=1a1a2e&animation=twinkling" width="100%"/>
