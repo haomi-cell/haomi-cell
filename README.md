@@ -62,8 +62,6 @@ root@xMSHaomi:~# ./audit.sh
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haomi-cell&theme=green&hide_border=true&bg_color=000000&color=00ff41&line=00ff41&point=ffffff" width="100%"/>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
