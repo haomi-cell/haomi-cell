@@ -10,13 +10,13 @@
 
 <br>
 
-<a href="https://Wa.me/+628****9053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=580&lines=%24+ssh+haomi%40omni+%E2%80%94+connected;Loading+modules+...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%24+whoami+%E2%86%92+xMSHaomi;%24+status+%E2%86%92+BUILDING+WEAPONS+OF+MASS+CREATION;%24+contact+%E2%86%92+tap+here+%F0%9F%91%88" alt="typing"/></a>
+<a href="https://Wa.me/+628****9053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=580&lines=%24+ssh+xMSHaomi%40root+%E2%80%94+connected;Loading+modules+...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%24+whoami+%E2%86%92+xMSHaomi;%24+status+%E2%86%92+BUILDING+WEAPONS+OF+MASS+CREATION;%24+contact+%E2%86%92+tap+here+%F0%9F%91%88" alt="typing"/></a>
 
 </div>
 
 <!-- ══════════ SYSTEM ══════════ -->
 ```bash
-┌──(haomi💀omni)-[~]
+┌──(root@xMSHaomi)-[~]
 └─$ cat /etc/identity
 
   HANDLE     :: 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞
@@ -27,7 +27,7 @@
   UPTIME     :: 24/7
   CONTACT    :: wa.me/+628****9053
 
-┌──(haomi💀omni)-[~]
+┌──(root@xMSHaomi)-[~]
 └─$ █
 ```
 
@@ -62,8 +62,8 @@
 ### ⬢ `tail -f /var/log/motto`
 
 ```bash
-[omni@core]:: " Dari abu, naga membangun. "          [ OK ]
-[omni@core]:: shutdown -h never                      [ OK ]
+[root@core]:: " Dari abu, naga membangun. "          [ OK ]
+[root@core]:: shutdown -h never                      [ OK ]
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=130&section=footer&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
