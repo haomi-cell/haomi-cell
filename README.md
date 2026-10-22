@@ -63,38 +63,35 @@ root@xMSHaomi:~# ./audit.sh
 
 </div>
 
-```bash
+```text
 root@xMSHaomi:~# cat /services/open-order.txt
 
-  ╔══════════════════════════════════════════════════╗
-  ║  💸 PAID EDIT — KEBUTUHAN SOSMED & APK PREMIUM   ║
-  ╠══════════════════════════════════════════════════╣
-  ║                                                  ║
-  ║  📱 APK PREMIUM                                  ║
-  ║     · bungkus web → APK (WebView native)         ║
-  ║     · custom nama · ikon · splash screen         ║
-  ║     · desain UI dark premium sesuai request      ║
-  ║     · fix bug APK lama, upgrade tampilan         ║
-  ║                                                  ║
-  ║  🌐 WEB & TOOLS                                  ║
-  ║     · web personal / toko / tools custom         ║
-  ║     · deploy live (Vercel / Netlify)             ║
-  ║     · domain + HTTPS siap pakai                  ║
-  ║                                                  ║
-  ║  💬 SOSMED SETUP                                 ║
-  ║     · bot WhatsApp / Telegram auto-reply         ║
-  ║     · pay gateway QRIS otomatis 0% fee           ║
-  ║     · sistem order & konfirmasi otomatis         ║
-  ║                                                  ║
-  ║  ✅ BENEFIT                                      ║
-  ║     · kerjaan rapi, gk asal jadi                 ║
-  ║     · revisi sampe puas — gk makeas              ║
-  ║     · harga bersahabat, kualitas premium         ║
-  ║     · hasil BUKAN copas — jaminan orisinal       ║
-  ║     · support abis jadi, gk dilepas doang        ║
-  ║                                                  ║
-  ║  ⚠ SLOT TERBATAS — first come first serve        ║
-  ╚══════════════════════════════════════════════════╝
+  ┃ 💸 PAID EDIT — KEBUTUHAN SOSMED & APK PREMIUM
+
+  ┃ 📱 APK PREMIUM
+  ┃    · bungkus web → APK (WebView native)
+  ┃    · custom nama · ikon · splash screen
+  ┃    · desain UI dark premium sesuai request
+  ┃    · fix bug APK lama, upgrade tampilan
+  ┃
+  ┃ 🌐 WEB & TOOLS
+  ┃    · web personal / toko / tools custom
+  ┃    · deploy live (Vercel / Netlify)
+  ┃    · domain + HTTPS siap pakai
+  ┃
+  ┃ 💬 SOSMED SETUP
+  ┃    · bot WhatsApp / Telegram auto-reply
+  ┃    · pay gateway QRIS otomatis 0% fee
+  ┃    · sistem order & konfirmasi otomatis
+  ┃
+  ┃ ✅ BENEFIT
+  ┃    · kerjaan rapi, gk asal jadi
+  ┃    · revisi sampe puas — gk makeas
+  ┃    · harga bersahabat, kualitas premium
+  ┃    · hasil BUKAN copas — jaminan orisinal
+  ┃    · support abis jadi, gk dilepas doang
+  ┃
+  ┃ ⚠ SLOT TERBATAS — first come first serve
 
 root@xMSHaomi:~# order --now
   → wa.me/+6282231669053  ← klik, langsung gas
