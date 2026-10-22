@@ -1,74 +1,36 @@
-<!-- ══════════ 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞 — PROFILE ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD700,50:FF4500,100:8B0000&height=280&section=header&text=xMSHaomi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=developer%20%E2%80%A2%20builder%20%E2%80%A2%20arsenal%20%E2%80%94%20think%20less%2C%20build%20more&descSize=15&descAlignY=55&animation=blink" width="100%"/>
+<h1 align="center">xMSHaomi</h1>
 
-<div align="center">
+<p align="center">
+  <em>build things that work. ship, iterate, repeat.</em>
+</p>
 
-<!-- terminal bar -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8B0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/OS-LINUX_UBUNTU-black?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLEARANCE-OWNER-black?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
+<p align="center">
+  <a href="https://Wa.me/+628****9053"><img src="https://img.shields.io/badge/contact-whatsapp-25D366?style=flat&logo=whatsapp"/></a>
+  <img src="https://img.shields.io/badge/focus-backends_%26_tools-181717?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/os-linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
 
-<br>
+## About
 
-<a href="https://Wa.me/+628****9053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=580&lines=%24+ssh+xMSHaomi%40root+%E2%80%94+connected;Loading+modules+...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%24+whoami+%E2%86%92+xMSHaomi;%24+status+%E2%86%92+BUILDING+WEAPONS+OF+MASS+CREATION;%24+contact+%E2%86%92+tap+here+%F0%9F%91%88" alt="typing"/></a>
+Indonesian developer. I build web tools, bots, payment integrations, and Android utilities — mostly for my own projects, some open-sourced. I care about things actually working end-to-end, not looking good in a demo.
 
-</div>
+## Projects
 
-<!-- ══════════ SYSTEM ══════════ -->
-```bash
-┌──(root@xMSHaomi)-[~]
-└─$ cat /etc/identity
+- **[haomi-api-tools](https://github.com/haomi-cell/haomi-api-tools)** — payment gateway module: QRIS invoicing, status checks, webhooks
+- **[HAO-AI](https://github.com/haomi-cell/HAO-AI)** — AI chat web console with a serverless backend
+- **[haomi-alightmotion](https://github.com/haomi-cell/haomi-alightmotion)** — web tool for generating Alight Motion XML presets
+- **[haomi-bot-tele](https://github.com/haomi-cell/haomi-bot-tele)** — Telegram bot: auto-replies, payment invoices, JSON storage
 
-  HANDLE     :: 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞
-  ROLE       :: Developer / Digital Builder
-  KERNEL     :: Linux Ubuntu 🐧
-  STACK      :: Node.js · Python · Flask · Android
-  FOCUS      :: API tools · pay gateway · bots · APK
-  UPTIME     :: 24/7
-  CONTACT    :: wa.me/+628****9053
+## Stack
 
-┌──(root@xMSHaomi)-[~]
-└─$ █
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-<!-- ══════════ STATS ══════════ -->
-<div align="center">
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FFD700&text_color=c9d1d9"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomi-cell&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=c9d1d9"/>
-</div>
+---
 
-<!-- ══════════ ARSENAL ══════════ -->
-### ⬢ `ls /arsenal/ --oneline`
-
-```bash
-🔥 haomi-api-tools      → payment gateway engine · QRIS 0% fee
-🤖 haomi-bot-tele       → telegram bot arsenal
-🎬 haomi-alightmotion   → AM XML preset tools
-🧠 HAO-AI               → AI integration
-```
-
-<!-- ══════════ TROPHY ══════════ -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=haomi-cell&theme=radical&no-frame=true&no-bg=true&column=7" width="100%"/>
-</div>
-
-<!-- ══════════ SNAKE ══════════ -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</div>
-
-<!-- ══════════ TECH ══════════ -->
-### ⬢ `nmap skills/`
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,nodejs,python,flask,js,ts,android,git,github,vercel,nginx,sqlite,firebase,docker,redis&theme=dark"/>
-</div>
-
-### ⬢ `tail -f /var/log/motto`
-
-```bash
-[root@core]:: " Dari abu, naga membangun. "          [ OK ]
-[root@core]:: shutdown -h never                      [ OK ]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF4500,100:FFD700&height=130&section=footer&text=%F0%9D%90%B1%F0%9D%99%88%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%96%F0%9D%99%A4%F0%9D%99%A2%F0%9D%99%9E&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
+<p align="center"><sub>xMSHaomi</sub></p>
