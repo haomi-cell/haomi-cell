@@ -42,7 +42,26 @@
 
 <a href="https://Wa.me/+6282231669053"><img src="https://img.shields.io/badge/───────%20DIRECT%20LINE%20───────-181718?style=for-the-badge&labelColor=0d0d12"/></a>
 <br><br>
-<a href="https://Wa.me/+6282231669053"><img src="https://img.shields.io/badge/%F0%9F%93%B1_WHATSAPP-%2B62_822_3166_9053-25D366?style=for-the-badge&labelColor=14141a&logo=whatsapp&logoColor=white"/></a>
+<a href="https://Wa.me/+628****9053"><img src="https://img.shields.io/badge/%F0%9F%93%B1_WHATSAPP-%2B62_822_3166_9053-25D366?style=for-the-badge&labelColor=14141a&logo=whatsapp&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/───────%20MULTI%20LANGUAGE%20───────-181718?style=for-the-badge&labelColor=0d0d12"/>
+
+</div>
+
+```bash
+$ cat /etc/locale | grep xMSHaomi
+
+  en_US   → " systems online. building in progress. "
+  ko_KR   → " 시스템 온라인. 건설 진행 중. 최고의 결과물. "
+  jv_NG   → " sistemé mlaku lancar jaya, rehne
+              dipercayakno mboten ngapusi "
+```
+
+<p align="center"><em>—" apapun bahasane, hasil’e tetep prime "—</em></p>
+
+<div align="center">
 
 </div>
 
