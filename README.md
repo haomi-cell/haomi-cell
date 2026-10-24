@@ -1,76 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=150&section=header" width="100%"/>
 
 <div align="center">
 
 # 𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞
 
-### `root@xMSHaomi ~ #` *system online*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=520&lines=AI+AGENT+OPERATOR+%F0%9F%A4%96;OSINT+%2B+SCRAPING+%2B+AUTOMATION+%F0%9F%94%8E;BUILD+TOOLS+THAT+ACTUALLY+RUN+%E2%9A%A1;MBOTEN+NGAPUSI+%F0%9F%90%8D" alt="typing"/>
+<a href="https://Wa.me/+6282231669053"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=560&lines=AI+AGENT+OPERATOR+%F0%9F%A4%96;OSINT+%E2%96%B8+2521+PLATFORMS+%E2%96%B8+DEEP+SCAN;358+SKILLS+%E2%96%B8+FULL+STACK+AGENT;AUTOMATION+%E2%96%B8+SCRAPING+%E2%96%B8+BOTS;MBOTEN+NGAPUSI+%F0%9F%90%8D" alt="typing"/></a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=haomi-cell&color=00ff41&style=flat-square&label=VISITORS"/>
+[![VISITORS](https://komarev.com/ghpvc/?username=haomi-cell&color=00ff41&style=for-the-badge&label=SYS.VISITORS)](https://Wa.me/+6282231669053)
 
 </div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="code"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/AGENTS-DEPLOYED-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/OSINT-2521%20MODULES-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/UPTIME-24%2F7-00ff41?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/FIREWALL-ACTIVE-ff1744?style=flat-square&labelColor=000000"/>
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="500" alt="matrix"/>
 
 </div>
 
 ```bash
-root@xMSHaomi:~# ./identity.sh --verbose --full
-
-  ┌──────────────────────────────────────────────┐
-  │  CLASSIFIED // OPERATOR PROFILE              │
-  ├──────────────────────────────────────────────┤
-  │  HANDLE      xMSHaomi                        │
-  │  ROLE        AI agent operator · developer   │
-  │  BASE        Indonesia 🇮🇩 — Jombang node     │
-  │  SHELL       /bin/bash @ Linux 🐧            │
-  │  LANG        en_US · ko_KR · jv_ID(ngapak)   │
-  │  CREW        358 skills · 6 agents · 24/7    │
-  │  MENTALITY   "mboten ngapusi" — no fake      │
-  │  CONTACT     wa.me/+628****9053              │
-  └──────────────────────────────────────────────┘
-
-root@xMSHaomi:~# ls -la /projects/ --sort=power
-
-  drwxr-xr-x  🧬  hao-ai-agent-tools  →  full AI agent bundle · 358 skills · 1-command install
-  drwxr-xr-x  💰  haomi-api-tools     →  payment gateway · QRIS · 0% fee · webhook auto-PAID
-  drwxr-xr-x  🤖  haomi-bot-tele      →  telegram AI bot · invoice engine · 24/7
-  drwxr-xr-x  🧠  HAO-AI              →  AI console · serverless core · dark UI
-  drwxr-xr-x  🎬  haomi-alightmotion  →  AM XML preset studio · LIVE at haomi-id.netlify.app
-
-root@xMSHaomi:~# nmap -sV skills.local
-
-PORT      STATE  SERVICE
-  22/tcp    OPEN   linux
-  3000/tcp  OPEN   node.js
-  5000/tcp  OPEN   python/flask
-  8080/tcp  OPEN   js/ts
-  3306/tcp  OPEN   sqlite
-  443/tcp   OPEN   vercel/nginx
-  9090/tcp  OPEN   docker/redis/firebase
-  5555/tcp  OPEN   android
-
-root@xMSHaomi:~# python3 -c "import skills; print(len(skills.all()))"
-  358 skills loaded. agents standing by.
-
-root@xMSHaomi:~# ./audit.sh
+root@xMSHaomi:~# whoami
+  𝐱𝙈𝙎𝙃𝙖𝙤𝙢𝙞 — AI agent operator · developer · builder
+root@xMSHaomi:~# cat /etc/identity
+  ══════════════════════════════════════════════
+   BASE        Indonesia 🇮🇩 — Jombang node
+   SHELL       /bin/bash @ Linux 🐧
+   LANG        en_US · ko_KR · jv_ID(ngapak)
+   CREW        358 skills · agents online 24/7
+   MENTALITY   "mboten ngapusi" — no fake sh*t
+  ══════════════════════════════════════════════
+root@xMSHaomi:~# systemctl status agents
+  ● haomi-agents.service — ACTIVE (running)
+     ├─ 🧬 agent-core      [358 skills loaded]
+     ├─ 🔍 osint-scanner   [2521 modules armed]
+     ├─ 💰 pay-gateway     [QRIS 0% fee live]
+     ├─ 🤖 tele-bot        [24/7 uptime]
+     └─ 🎬 preset-studio   [haomi-id.netlify.app]
+root@xMSHaomi:~# █
 ```
 
 <div align="center">
+
+## ☠️ WEAPONS-GRADE PROJECTS ☠️
+
+</div>
+
+<a href="https://github.com/haomi-cell/hao-ai-agent-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=hao-ai-agent-tools&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
+<a href="https://github.com/haomi-cell/haomi-api-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-api-tools&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
+<a href="https://github.com/haomi-cell/haomi-bot-tele"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-bot-tele&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
+<a href="https://github.com/haomi-cell/HAO-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=HAO-AI&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
+<a href="https://github.com/haomi-cell/haomi-alightmotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-alightmotion&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
+
+<div align="center">
+
+## ⚡ STACK ⚡
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,bash,linux,docker,git,flask,fastapi,html,css,vercel&theme=dark" alt="stack"/>
 
@@ -78,60 +61,41 @@ root@xMSHaomi:~# ./audit.sh
 
 <div align="center">
 
-## ⚡ PAID SERVICE — JASA EDIT & BUILD PREMIUM
+## ⚔️ PAID SERVICE — OPEN ORDER ⚔️
 
-**`[ ═══════ OPEN ORDER — SLOT TERBATAS ═══════ ]`**
+**`[ ════════ SLOT TERBATAS — FIRST COME FIRST SERVE ════════ ]`**
 
 </div>
 
 ```text
-root@xMSHaomi:~# cat /services/open-order.txt
+root@xMSHaomi:~# cat /services/menu.txt
 
-  ┃ 💸 PAID EDIT — KEBUTUHAN SOSMED & APK PREMIUM
+  ┃ 💀 APK PREMIUM      — web → APK native · custom ikon/splash · dark UI
+  ┃ 🌐 WEB & TOOLS      — web custom · deploy Vercel/Netlify · domain+HTTPS
+  ┃ 🤖 AI AGENT         — agent custom · skills · cron · memory · MCP
+  ┃ 🔍 OSINT & SCRAPE   — username/email deep scan · stealth scraping
+  ┃ 💬 BOTS             — WhatsApp/Telegram auto-reply · sistem order otomatis
+  ┃ 💸 PAY GATEWAY      — QRIS otomatis 0% fee · webhook auto-PAID
 
-  ┃ 📱 APK PREMIUM
-  ┃    · bungkus web → APK (WebView native)
-  ┃    · custom nama · ikon · splash screen
-  ┃    · desain UI dark premium sesuai request
-  ┃    · fix bug APK lama, upgrade tampilan
-  ┃
-  ┃ 🌐 WEB & TOOLS
-  ┃    · web personal / toko / tools custom
-  ┃    · deploy live (Vercel / Netlify)
-  ┃    · domain + HTTPS siap pakai
-  ┃
-  ┃ 🤖 AI AGENT & AUTOMATION
-  ┃    · AI agent custom (skills · cron · memory)
-  ┃    · OSINT / scraping tools sesuai target
-  ┃    · bot WhatsApp / Telegram auto-reply
-  ┃    · pay gateway QRIS otomatis 0% fee
-  ┃    · sistem order & konfirmasi otomatis
-  ┃
-  ┃ ✅ BENEFIT
-  ┃    · kerjaan rapi, gk asal jadi
-  ┃    · revisi sampe puas — gk makeas
-  ┃    · hasil BUKAN copas — jaminan orisinal
-  ┃    · support abis jadi, gk dilepas doang
-  ┃
-  ┃ ⚠ SLOT TERBATAS — first come first serve
+  ┃ ✅ kerjaan rapi · revisi sampe puas · BUKAN copas · support abis jadi
 
 root@xMSHaomi:~# order --now
-  → wa.me/+628****9053  ← klik, langsung gas
+  ▸ wa.me/+6282231669053  ← klik, langsung gas
 ```
 
 <p align="center">
 
 *"butuh joki digital? sing ndelok ndek kene tok — liane gk usah,*
 *wong kiye ws pinter, tur mboten ngapusi."*
-*ra ngunu kok mbayar melarat karo asal-asalan,*
 *detok mrene wae — cepet, rapi, regone oke."*
 
 </p>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41"/>
-<img height="170" src="https://streak-stats.demolab.com?user=haomi-cell&hide_border=true&background=050505&stroke=00ff41&ring=00ff41&fire=ff1744&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&total=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=haomi-cell&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
+<img height="165" src="https://streak-stats.demolab.com?user=haomi-cell&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff1744&currStreakNum=ffffff&currStreakLabel=00ff41&sideNums=ffffff&sideLabels=00ff41&dates=9ca3af&total=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomi-cell&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41"/>
 
 <br><br>
 
@@ -144,14 +108,14 @@ root@xMSHaomi:~# order --now
 <br><br>
 
 ```bash
-$ cat /var/log/motto.log
+$ tail -f /var/log/motto.log
 
   [en] " build fast. build right. never fake. "
   [ko] " 빠르게 만들고, 바르게 만들고, 절대 속이지 않는다. "
   [jv] " gawe cepet, gawe bener, mboten ngapusi. "
 
 root@xMSHaomi:~# shutdown -h never
-  [OK] system will stay awake.
+  [OK] system will stay awake. forever.
 root@xMSHaomi:~# █
 ```
 
@@ -163,4 +127,4 @@ root@xMSHaomi:~# █
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b0f,50:00ff41,100:003b0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=110&section=footer" width="100%"/>
