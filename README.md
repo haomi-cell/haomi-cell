@@ -35,7 +35,7 @@ root@xMSHaomi:~# systemctl status agents
      ├─ 🔍 osint-scanner   [2521 modules armed]
      ├─ 💰 pay-gateway     [QRIS 0% fee live]
      ├─ 🤖 tele-bot        [24/7 uptime]
-     └─ 🎬 preset-studio   [haomi-id.netlify.app]
+     └─ 🎬 preset-studio   [live — deployed via Vercel]
 root@xMSHaomi:~# █
 ```
 
