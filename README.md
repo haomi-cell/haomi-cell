@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif" width="420" alt="matrix"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="code"/>
 
 <br>
 
