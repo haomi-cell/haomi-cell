@@ -49,7 +49,6 @@ root@xMSHaomi:~# █
 <a href="https://github.com/haomi-cell/haomi-api-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-api-tools&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
 <a href="https://github.com/haomi-cell/haomi-bot-tele"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-bot-tele&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
 <a href="https://github.com/haomi-cell/HAO-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=HAO-AI&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
-<a href="https://github.com/haomi-cell/haomi-alightmotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haomi-cell&repo=haomi-alightmotion&theme=chartreuse-dark&hide_border=true&bg_color=000000"/></a>
 
 <div align="center">
 
@@ -85,9 +84,7 @@ root@xMSHaomi:~# order --now
 
 <p align="center">
 
-*"butuh joki digital? sing ndelok ndek kene tok — liane gk usah,*
-*wong kiye ws pinter, tur mboten ngapusi."*
-*detok mrene wae — cepet, rapi, regone oke."*
+_"butuh joki digital? sing ndelok ndek kene tok — liane gk usah, wong kiye ws pinter, tur mboten ngapusi. detok mrene wae — cepet, rapi, regone oke."_
 
 </p>
 
